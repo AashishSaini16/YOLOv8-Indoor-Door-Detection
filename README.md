@@ -32,7 +32,11 @@ This project contains a complete pipeline for training and deploying a custom YO
 - **Original Images**: 7,583
 - **Augmented Images**: 21,263
 - **Classes**: 1 (door)
-- **License**: CC BY 4.0
+
+## Dataset License
+
+The dataset used in this project is licensed under **CC BY 4.0**.  
+Source: [Roboflow Universe](https://universe.roboflow.com/door-2wjcn/door-ocdh8)
 
 ## Methodology
 
