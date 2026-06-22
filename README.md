@@ -24,8 +24,7 @@ This project contains a complete pipeline for training and deploying a custom YO
 
 ### Live Detection Examples
 
-![Live Detection 1](results/inference_screenshots/live_detection_1.png)
-![Live Detection 2](results/inference_screenshots/live_detection_2.png)
+![Live Detection 1](https://github.com/AashishSaini16/YOLOv8-Indoor-Door-Detection/blob/main/live_inference.png)
 
 ## Dataset
 
