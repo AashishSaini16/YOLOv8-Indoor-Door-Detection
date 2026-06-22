@@ -18,9 +18,9 @@ This project contains a complete pipeline for training and deploying a custom YO
 | Recall            | 0.9153   |
 | F1 Score          | 0.9405   |
 
-### Training Performance
+### Performance
 
-![Training Performance](results/training_performance.png)
+![Performance](https://github.com/AashishSaini16/YOLOv8-Indoor-Door-Detection/blob/main/performance_graphs.png)
 
 ### Live Detection Examples
 
