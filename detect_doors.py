@@ -1,6 +1,5 @@
 """
 Live Webcam Door Detection using YOLOv8
-Quick fix applied to show clean class name instead of long Roboflow name.
 """
 
 from ultralytics import YOLO
@@ -38,7 +37,6 @@ def main():
         # Run detection
         results = model(frame, imgsz=640, conf=0.5, device="cpu", verbose=False)
 
-        # ====================== QUICK FIX ======================
         # Override the class name so it shows "door" instead of the long name
         results[0].names = {0: "door"}
         # =======================================================
